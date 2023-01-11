@@ -2,9 +2,9 @@
 # What you should do: Copy this file or create a new one called '_config.yml' with the following minimun specifications:
 ---
 layout: post
-title: Open Agricultural Project
-author: Daniel Calenzani
-theme: jekyll-theme-cayman
+title: YOUR_PROJECT_NAME
+author: YOUR_NAME
+theme: THEME_OF_YOUR_CHOOSING
 # Before starting I must say I don't actually know what most of this things do, at least not exactly, so my modifications where according to other experiences in stackoverflow and other config.yml files seen. I'll try to add them if I can.
 ---
 # Where things are
